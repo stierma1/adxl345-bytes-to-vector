@@ -1,0 +1,19 @@
+{
+  "name": "adxl345-bytes-to-vector",
+  "version": "1.0.0",
+  "description": "Converts the adxl345 bytes to a 3d vector",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stierma1/adxl345-bytes-to-vector.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stierma1/adxl345-bytes-to-vector/issues"
+  },
+  "homepage": "https://github.com/stierma1/adxl345-bytes-to-vector#readme"
+}
